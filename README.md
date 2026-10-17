@@ -51,6 +51,7 @@ Agents designed to run locally, prioritizing privacy and local LLM inference (Ol
 * [ProtoAgent](https://github.com/yourusername/protoagent) *(Work in Progress)* - A Python-based, open-source orchestration layer specifically built to route ACP requests to local LLMs (Ollama) with integrated MCP tool support.
 * [happysnaker/qq-ai-bot](https://github.com/happysnaker/qq-ai-bot) - A production-grade QQ ↔ AI bridge for OneBot 11 / NapCat / LLOneBot that connects ACP-compatible local agents to QQ with persistent sessions and progress streaming.
 * [QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent) - A realtime full-duplex voice client for ACP agents: talk to Claude Code, Codex, OpenCode and more like a phone call, with barge-in, spoken task results, and voice permission gates.
+* [Octomind](https://github.com/muvon/octomind) - An open-source (Apache-2.0) AI coding agent runtime in Rust: one binary, any model provider (including local Ollama), MCP-native. Runs as an ACP agent over stdio via `octomind acp`.
 
 ## Frameworks & SDKs
 
